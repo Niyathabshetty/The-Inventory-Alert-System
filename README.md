@@ -22,7 +22,7 @@ Develop a Python program to manage product quantities and identify low-stock ite
 * Basic Input/Output
 
 ---
-## ▶️ How to Run
+## How to Run
 
 1. Open VS Code or any Python IDE
 2. Create a file `inventory_system.py`
